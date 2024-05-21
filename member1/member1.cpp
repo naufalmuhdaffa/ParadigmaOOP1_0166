@@ -8,7 +8,7 @@ private:
     string nama;
     float nilai;
 
-
+public:
 };
 
 int main()
